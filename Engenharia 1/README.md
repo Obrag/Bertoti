@@ -28,6 +28,8 @@ Não funcional
 
 ![foto](https://github.com/Obrag/Bertoti/blob/b3b32821d5635a1a7ef53c291cf514faa43d3ada/Engenharia%201/professor.png)
 
+![foto](https://github.com/Obrag/Bertoti/blob/01ec7c554fa7e3987d7704b782513ed56db17f48/Engenharia%201/Classe_Aluno.png)
+
 
 
 
