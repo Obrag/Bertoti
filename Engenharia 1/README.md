@@ -26,6 +26,8 @@ Não funcional
 
 ![foto](https://github.com/Obrag/Bertoti/blob/dbfc15620edf6a8546706e73f8cbfaa1faaa9949/Engenharia%201/plataformadeensino.png)
 
+![foto](https://github.com/Obrag/Bertoti/blob/b3b32821d5635a1a7ef53c291cf514faa43d3ada/Engenharia%201/professor.png)
+
 
 
 
