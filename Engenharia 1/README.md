@@ -1,3 +1,10 @@
+## Luiz Felipe Gonçalves Braga 
+
+# Ciclo de vida de desenvolvimento de software
+(ex: plataforma de ensino)
+
+## REQUISITOS
+
 
 Funcional 
 
