@@ -17,3 +17,9 @@ Funcional
 Não funcional 
 ![foto](https://github.com/Obrag/Bertoti/blob/429b50c27e3fbccb4e6ec8cae8a3538c0fb4c053/Engenharia%201/N%C3%83O%20FUNCIONAL.png)
 
+## projeto de sistema
+
+![foto](https://github.com/Obrag/Bertoti/blob/0813dd07ae098b8e50e36d7a1d05b3b3c5f891d4/Engenharia%201/Projeto%20de%20sistema.png)
+
+
+
