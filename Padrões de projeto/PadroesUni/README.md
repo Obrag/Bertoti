@@ -1,6 +1,3 @@
 # Arquitetura UML 
 Diagrama de Classes:
-
-![Arquitetura UML](../Documentos/Imagens/Arquitetura-UML.jpg "Arquitetura UML")
-
-[⬅️ Voltar](https://github.com/hrszanini/bertoti/tree/main/Padr%C3%B5es%20de%20Pojetos)
+![foto](https://github.com/Obrag/Bertoti/blob/498891b8980f8ac6f2388d2f7bd6ccc30827250c/Padr%C3%B5es%20de%20projeto/PadroesUni/src/Arquitetura-UML.jpg)
