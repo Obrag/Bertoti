@@ -1,1 +1,7 @@
-
+| Padrão | anti-padrão | Descrição | Problema que resolve |
+| -------- | -------- |-------- |------------ |
+| Strategy | Polimorfismo permite agrupar uma variedade de algoritmos em uma única entidade, permitindo que sejam facilmente substituídos. | Eliminação de código duplicado. |
+| Observer | Desacoplamento | Melhora a troca de informações e coordenação entre objetos, permitindo que um objeto notifique automaticamente vários observadores sobre mudanças de estado. | Promove a independência entre objetos que precisam ser notificados sobre mudanças, simplificando a atualização automática desses objetos. |
+| Composite | Tratamento unificado de objetos individuais e grupos | Permite que os clientes tratem objetos individuais e grupos de objetos de maneira uniforme. | Simplifica a interação com hierarquias de objetos, tratando de forma consistente objetos individuais e composições. |
+| Singleton | Restrição de múltiplas instâncias de uma classe | Garante que uma classe tenha apenas uma instância e fornece um ponto de acesso global a ela. | Restringe a criação de múltiplas instâncias de uma classe e fornece acesso global a essa única instância. |
+| Facade | Evitando sobrecarga de responsabilidades na classe fachada | Permite que os clientes interajam com um sistema complexo de classes por meio de uma interface simplificada e unificada. Oculta a complexidade do subsistema e facilita o uso. | Simplifica a interação com um subsistema complexo, fornecendo uma interface simplificada e ocultando a complexidade interna. |
