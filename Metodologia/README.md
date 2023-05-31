@@ -35,5 +35,27 @@ As linguagens de marcação HTML e CSS foram utilizadas em conjunto com a lingua
 
 ## Contribuições Individuais (pontos de maior valor)
 
+Criação da lógica de geração de gráficos: Implementei a lógica necessária para transformar os dados meteorológicos em gráficos compreensíveis. Isso envolveu  a utilização da bibliotecas gráfica a Charts.js, para criar visualizações adequadas e interativas dos dados.
+
+O código acima apresentado cria um gráfico de linha utilizando a biblioteca Chart.js.
+
+myLineChart = new Chart(ctx, {...}): Cria uma nova instância do gráfico de linha e o associa a um elemento do DOM com o contexto ctx.
+
+type: 'line': Define o tipo de gráfico como "line", indicando que será um gráfico de linha.
+
+data: {...}: Define os dados do gráfico, incluindo os rótulos (labels) para o eixo x e os conjuntos de dados (datasets) que serão exibidos no gráfico.
+
+labels: arrayHora: Define os rótulos para o eixo x do gráfico, utilizando o array arrayHora.
+
+datasets: [{...}, {...}, {...}]: Define os conjuntos de dados que serão exibidos no gráfico. Cada conjunto de dados é um objeto com configurações específicas.
+
+label: "Nível da estação(mB)": Define o rótulo para o conjunto de dados, que será exibido na legenda do gráfico.
+
+lineTension: 0.3: Define a tensão da linha do gráfico, controlando o quão suave ou rígida ela será.
+
+backgroundColor, borderColor, pointRadius, pointBackgroundColor, pointBorderColor, pointHoverRadius, pointHoverBackgroundColor, pointHitRadius, pointBorderWidth: São configurações relacionadas às cores, tamanho e estilo dos pontos e linhas no gráfico.
+
+data: arrayPressaoEstacao, data: arrayPressaoMax, data: arrayPressaoMin: São os conjuntos de dados reais que serão plotados no gráfico. Cada conjunto de dados é representado por um array, que contém os valores que serão exibidos no eixo y do gráfico.
+
 ## Aprendizados Efetivos (pontos de maior valor)
 
