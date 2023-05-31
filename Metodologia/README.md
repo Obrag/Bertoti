@@ -6,7 +6,7 @@
 
 ## IACIT 
                                   
-![](https://github.com/Obrag/Bertoti/blob/0dd18e12129e1591a3040b01dd74f6668ce73680/Metodologia/IACIT%20LOGO.png)
+![](https://github.com/Obrag/Bertoti/blob/94dbef14d4d5e80d27eaa03a96e49ff147ef09a0/Metodologia/API%20IACIT.png)
 
 
 
