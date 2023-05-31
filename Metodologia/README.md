@@ -66,7 +66,7 @@ data: arrayPressaoEstacao, data: arrayPressaoMax, data: arrayPressaoMin: São os
 <details>
   <summary><b>Segurança</b></summary> 
   
-  <details>
+<details>
     
   
 
