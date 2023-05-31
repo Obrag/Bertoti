@@ -68,6 +68,9 @@ data: arrayPressaoEstacao, data: arrayPressaoMax, data: arrayPressaoMin: São os
 Na parte de segunraça desenvolvi as autenticações 
   
   
+![](https://github.com/Obrag/Bertoti/blob/0a79c5fcd26a2b9c467fd63f16de4ccae8c6618a/Metodologia/log.png)
+  
+  
 </details>
     
   
