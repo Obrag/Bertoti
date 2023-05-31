@@ -4,6 +4,8 @@
 
 ## Parceiro Acadêmico
 
+![]
+
 
 
 ## Descrição do Projeto
