@@ -61,6 +61,9 @@ lineTension: 0.3: Define a tensão da linha do gráfico, controlando o quão sua
 backgroundColor, borderColor, pointRadius, pointBackgroundColor, pointBorderColor, pointHoverRadius, pointHoverBackgroundColor, pointHitRadius, pointBorderWidth: São configurações relacionadas às cores, tamanho e estilo dos pontos e linhas no gráfico.
 
 data: arrayPressaoEstacao, data: arrayPressaoMax, data: arrayPressaoMin: São os conjuntos de dados reais que serão plotados no gráfico. Cada conjunto de dados é representado por um array, que contém os valores que serão exibidos no eixo y do gráfico.
+</details>
+    
+  
 
 ## Aprendizados Efetivos (pontos de maior valor)
 
