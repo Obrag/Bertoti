@@ -65,8 +65,10 @@ data: arrayPressaoEstacao, data: arrayPressaoMax, data: arrayPressaoMin: São os
 
 <details>
   <summary><b>Segurança</b></summary> 
+Na parte de segunraça desenvolvi as autenticações 
   
-<details>
+  
+</details>
     
   
 
