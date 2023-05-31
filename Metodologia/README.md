@@ -4,7 +4,7 @@
 
 ## Parceiro Acadêmico
 
-![]
+![](https://github.com/Obrag/Bertoti/blob/bc26fec0d95ea7cd5259bccb9e00ec6b9697a5e9/Metodologia/iacit.png)
 
 
 
