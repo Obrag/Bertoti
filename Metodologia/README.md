@@ -37,6 +37,9 @@ As linguagens de marcação HTML e CSS foram utilizadas em conjunto com a lingua
 
 Criação da lógica de geração de gráficos: Implementei a lógica necessária para transformar os dados meteorológicos em gráficos compreensíveis. Isso envolveu  a utilização da bibliotecas gráfica a Charts.js, para criar visualizações adequadas e interativas dos dados.
 
+![](https://github.com/Obrag/Bertoti/blob/bd304c69480604a8b7e88446925f6274995f8892/Metodologia/Gr%C3%A1fico%201.png)
+![](https://github.com/Obrag/Bertoti/blob/bd304c69480604a8b7e88446925f6274995f8892/Metodologia/Gr%C3%A1fico%202.png)
+
 O código acima apresentado cria um gráfico de linha utilizando a biblioteca Chart.js.
 
 myLineChart = new Chart(ctx, {...}): Cria uma nova instância do gráfico de linha e o associa a um elemento do DOM com o contexto ctx.
