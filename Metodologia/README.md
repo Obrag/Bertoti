@@ -33,7 +33,7 @@ As linguagens de marcação HTML e CSS foram utilizadas em conjunto com a lingua
 
 
 
-## Contribuições Individuais (pontos de maior valor)
+## Contribuições Individuais 
 <details>
   <summary><b>Criação da lógica de geração de gráficos</b></summary> 
 
@@ -65,5 +65,5 @@ data: arrayPressaoEstacao, data: arrayPressaoMax, data: arrayPressaoMin: São os
     
   
 
-## Aprendizados Efetivos (pontos de maior valor)
+## Aprendizados Efetivos 
 
