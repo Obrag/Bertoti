@@ -62,6 +62,11 @@ backgroundColor, borderColor, pointRadius, pointBackgroundColor, pointBorderColo
 
 data: arrayPressaoEstacao, data: arrayPressaoMax, data: arrayPressaoMin: São os conjuntos de dados reais que serão plotados no gráfico. Cada conjunto de dados é representado por um array, que contém os valores que serão exibidos no eixo y do gráfico.
 </details>
+
+<details>
+  <summary><b>Segurança</b></summary> 
+  
+  <details>
     
   
 
