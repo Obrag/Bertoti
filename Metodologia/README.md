@@ -3,7 +3,7 @@
 
 
 ## Parceiro Acadêmico
-                                  ## IACIT 
+                                  IACIT 
 ![](https://github.com/Obrag/Bertoti/blob/0dd18e12129e1591a3040b01dd74f6668ce73680/Metodologia/IACIT%20LOGO.png)
 
 
