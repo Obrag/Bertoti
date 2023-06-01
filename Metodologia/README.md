@@ -119,8 +119,9 @@ option id="select1" value="abc" disabled="" selected="">Procurar...</option>: Um
 
 script... Código JavaScript embutido no HTML. Esse código é executado quando o documento HTML é carregado e usa a biblioteca jQuery para fazer uma requisição GET para "/estacoes" e preencher dinamicamente as opções do menu suspenso "estacoes-select" com base nos dados recebidos. Em seguida, há uma função search() que é chamada quando o botão "btnNavbarSearch" é clicado, que obtém o valor selecionado do menu.
 </details>
- 
- 
 
-## Aprendizados Efetivos 
+
+
+ 
+### Aprendizados Efetivos 
 
