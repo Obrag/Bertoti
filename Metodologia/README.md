@@ -105,8 +105,6 @@ body class="sb-nav-fixed">: Define a classe CSS "sb-nav-fixed" para o elemento b
 
 nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">: Cria uma barra de navegação superior usando classes CSS pré-definidas, como "navbar", "navbar-expand" e "navbar-dark". A barra de navegação tem um fundo escuro ("bg-dark").
 
-<div>1</div>: Um elemento <div> que contém o número 1.
-
 a class="navbar-brand ps-3" href="index.html">IACIT</a>: Um link de navegação com a classe "navbar-brand" e o texto "IACIT". Esse link provavelmente serve como logotipo ou nome da marca.
 
 button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>: Um botão com a classe "btn" e "btn-link" para alternar a barra lateral. Esse botão geralmente é usado para mostrar ou ocultar o menu lateral em um layout responsivo. Ele contém um ícone de barras.
@@ -119,7 +117,7 @@ select class="est-select" style="width:300px" id="estacoes-select">: Um elemento
 
 option id="select1" value="abc" disabled="" selected="">Procurar...</option>: Uma opção pré-definida no menu suspenso, com o ID "select1" e o valor "abc". Essa opção está desabilitada (disabled) e selecionada (selected) por padrão, e exibe o texto "Procurar...".
 
-script...</script>: Código JavaScript embutido no HTML. Esse código é executado quando o documento HTML é carregado e usa a biblioteca jQuery para fazer uma requisição GET para "/estacoes" e preencher dinamicamente as opções do menu suspenso "estacoes-select" com base nos dados recebidos. Em seguida, há uma função search() que é chamada quando o botão "btnNavbarSearch" é clicado, que obtém o valor selecionado do menu
+script... Código JavaScript embutido no HTML. Esse código é executado quando o documento HTML é carregado e usa a biblioteca jQuery para fazer uma requisição GET para "/estacoes" e preencher dinamicamente as opções do menu suspenso "estacoes-select" com base nos dados recebidos. Em seguida, há uma função search() que é chamada quando o botão "btnNavbarSearch" é clicado, que obtém o valor selecionado do menu
     
  </details>
 
