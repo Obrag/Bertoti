@@ -117,9 +117,11 @@ select class="est-select" style="width:300px" id="estacoes-select">: Um elemento
 
 option id="select1" value="abc" disabled="" selected="">Procurar...</option>: Uma opção pré-definida no menu suspenso, com o ID "select1" e o valor "abc". Essa opção está desabilitada (disabled) e selecionada (selected) por padrão, e exibe o texto "Procurar...".
 
-script... Código JavaScript embutido no HTML. Esse código é executado quando o documento HTML é carregado e usa a biblioteca jQuery para fazer uma requisição GET para "/estacoes" e preencher dinamicamente as opções do menu suspenso "estacoes-select" com base nos dados recebidos. Em seguida, há uma função search() que é chamada quando o botão "btnNavbarSearch" é clicado, que obtém o valor selecionado do menu
+script... Código JavaScript embutido no HTML. Esse código é executado quando o documento HTML é carregado e usa a biblioteca jQuery para fazer uma requisição GET para "/estacoes" e preencher dinamicamente as opções do menu suspenso "estacoes-select" com base nos dados recebidos. Em seguida, há uma função search() que é chamada quando o botão "btnNavbarSearch" é clicado, que obtém o valor selecionado do menu.
     
  </details>
+ 
+ 
 
-## Aprendizados Efetivos 
+### Aprendizados Efetivos 
 
