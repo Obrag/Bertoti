@@ -101,21 +101,21 @@ Na parte da estrutura HTML eu desenvolvi a estrutura básica do projeto HTML, de
  
   Esse código define a estrutura básica da página HTML e implementa uma barra de navegação com um campo de pesquisa e um botão de busca. Vou explicar as principais partes:
 
-body class="sb-nav-fixed">: Define a classe CSS "sb-nav-fixed" para o elemento body, que provavelmente possui algum estilo de layout fixo para a barra de navegação.
+body class="sb-nav-fixed": Define a classe CSS "sb-nav-fixed" para o elemento body, que provavelmente possui algum estilo de layout fixo para a barra de navegação.
 
-nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">: Cria uma barra de navegação superior usando classes CSS pré-definidas, como "navbar", "navbar-expand" e "navbar-dark". A barra de navegação tem um fundo escuro ("bg-dark").
+nav class="sb-topnav : Cria uma barra de navegação superior usando classes CSS pré-definidas, como "navbar", "navbar-expand" e "navbar-dark". A barra de navegação tem um fundo escuro ("bg-dark").
 
-a class="navbar-brand ps-3" href="index.html">IACIT</a>: Um link de navegação com a classe "navbar-brand" e o texto "IACIT". Esse link provavelmente serve como logotipo ou nome da marca.
+a class="navbar-brand: Um link de navegação com a classe "navbar-brand" e o texto "IACIT". Esse link provavelmente serve como logotipo ou nome da marca.
 
-button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>: Um botão com a classe "btn" e "btn-link" para alternar a barra lateral. Esse botão geralmente é usado para mostrar ou ocultar o menu lateral em um layout responsivo. Ele contém um ícone de barras.
+button class="btn: Um botão com a classe "btn" e "btn-link" para alternar a barra lateral. Esse botão geralmente é usado para mostrar ou ocultar o menu lateral em um layout responsivo. Ele contém um ícone de barras.
 
 form class="d-none d-md-inline-block form-inline ms-auto me-0 me-md-3 my-2 my-md-0">: Um formulário com classes CSS "d-none" e "d-md-inline-block", que indica que o formulário é oculto em telas menores que md (médias) e exibido em telas maiores. O formulário tem classes adicionais "form-inline" e "ms-auto me-0 me-md-3 my-2 my-md-0" para ajustar o estilo de exibição.
 
 div class="ls-field-lg">: Um elemento <div> com a classe "ls-field-lg", provavelmente usado para estilização específica.
 
-select class="est-select" style="width:300px" id="estacoes-select">: Um elemento <select> com a classe "est-select" e um estilo de largura de 300 pixels. Esse elemento é um menu suspenso onde os usuários podem selecionar uma opção. Ele tem o ID "estacoes-select".
+select class="est-select" style="width:300px" id="estacoes-select">: Um elemento select com a classe "est-select" e um estilo de largura de 300 pixels. Esse elemento é um menu suspenso onde os usuários podem selecionar uma opção. Ele tem o ID "estacoes-select".
 
-option id="select1" value="abc" disabled="" selected="">Procurar...<option>: Uma opção pré-definida no menu suspenso, com o ID "select1" e o valor "abc". Essa opção está desabilitada (disabled) e selecionada (selected) por padrão, e exibe o texto "Procurar...".
+option id="select1" value="abc" disabled="" selected=""Procurar...<option>: Uma opção pré-definida no menu suspenso, com o ID "select1" e o valor "abc". Essa opção está desabilitada (disabled) e selecionada (selected) por padrão, e exibe o texto "Procurar...".
 
 script... Código JavaScript embutido no HTML. Esse código é executado quando o documento HTML é carregado e usa a biblioteca jQuery para fazer uma requisição GET para "/estacoes" e preencher dinamicamente as opções do menu suspenso "estacoes-select" com base nos dados recebidos. Em seguida, há uma função search() que é chamada quando o botão "btnNavbarSearch" é clicado, que obtém o valor selecionado do menu.
 
