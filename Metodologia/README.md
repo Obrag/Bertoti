@@ -65,11 +65,30 @@ data: arrayPressaoEstacao, data: arrayPressaoMax, data: arrayPressaoMin: São os
 
 <details>
   <summary><b>Segurança</b></summary> 
-Na parte de segunraça desenvolvi as autenticações 
+Na parte de segunraça desenvolvi a autenticação que o código faz da seguinte maneira: Quando o usuário usa a aplicação o código faz o registro do IP no LOG, e das outras vezes que a aplicação for executada ele vai comparar o registro do ultimo log e comparar com a atual para saber se é o mesmo usuário. 
   
   
 ![](https://github.com/Obrag/Bertoti/blob/0a79c5fcd26a2b9c467fd63f16de4ccae8c6618a/Metodologia/log.png)
   
+ O código acima representa uma parte da autenticação desenvolvida. 
+ 
+ $(function() {...});: Isso envolve todo o código dentro de uma função que será executada quando a página terminar de carregar.
+
+$.getJSON("https://api.ipify.org?format=jsonp&callback=?", function(json) {...});: Faz uma requisição GET para a API do ipify.org para obter o endereço IP do cliente. A função getJSON recebe uma URL como parâmetro e uma função de retorno que será executada quando a resposta da requisição estiver disponível. A resposta da API é passada para a função como um objeto json.
+
+const formulario = document.querySelector("form");: Seleciona o elemento <form> do HTML e o armazena na variável formulario.
+
+const Iemail = document.getElementById("inputEmail");: Seleciona o elemento com o ID inputEmail do HTML e o armazena na variável Iemail.
+
+function cadastrarLog() {...}: Define uma função chamada cadastrarLog() que é responsável por enviar uma requisição POST para o servidor para cadastrar um log de login. A função utiliza a função fetch() para enviar a requisição para o endpoint http://localhost:8080/log. Os cabeçalhos da requisição são definidos para indicar que o tipo de conteúdo é JSON. O corpo da requisição é definido como um objeto JSON que contém o email do usuário, o endereço IP e o status de "logado".
+
+.then(function(res) {console.log(res) }): Define uma função de retorno que será executada quando a requisição POST for concluída com sucesso. Nesse caso, a função simplesmente exibe a resposta da requisição no console.
+
+.catch(function(res) {console.log(res) }): Define uma função de retorno que será executada se ocorrer algum erro na requisição POST. Nesse caso, a função simplesmente exibe o erro no console.
+
+formulario.addEventListener('submit', function(event) {...});: Adiciona um ouvinte de evento ao formulário que aguarda o evento de envio (submit). Quando o evento é acionado, a função de retorno é executada. Essa função chama a função cadastrarLog() para enviar a requisição POST.
+
+Esse código combina o uso do jQuery para fazer uma requisição GET para obter o endereço IP do cliente e o uso do JavaScript puro (Vanilla JavaScript) para selecionar elementos do HTML, adicionar um ouvinte de evento e enviar a requisição POST. O objetivo é cadastrar um log de login no servidor quando o formulário for enviado.
   
 </details>
     
