@@ -123,4 +123,33 @@ script... Código JavaScript embutido no HTML. Esse código é executado quando 
 
 
 ### Aprendizados Efetivos 
+<details>
+  <summary>Spring Framework</summary>
+    <ul>
+      <li>Desenvolvimento de aplicações web</li>
+      <li>Arquitetura REST</li>
+      <li>Integração com banco de dados</li>
+      <li>Injeção de dependências</li>
+      <li>Desenvolvimento de código através de interfaces</li>
+    </ul>
+</details>
+<details>
+  <summary>Banco de dados</summary>
+    <ul>
+      <li>Consultas personalizadas com SQL</li>
+      <li>Geração de scripts</li>
+      <li>Export e import de backup</li>
+    </ul>
+</details>
+<details>
+  <summary>Programação</summary>
+    <ul>
+      <li>Funções em JavaScript</li>
+      <li>Manipulação de variáveis com JavaScript</li>
+      <li>Programação orientada a objetos</li>
+      <li>Consumo de API Rest</li>
+      <li>Gerenciamento de usuários</li>
+      <li>Consumo de recursos de bootstrap</li>
+    </ul>
+</details>
 
