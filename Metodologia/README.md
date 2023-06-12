@@ -135,9 +135,9 @@ script... Código JavaScript embutido no HTML. Esse código é executado quando 
 <details>
   <summary>Banco de dados</summary>
     <ul>
-      <li>Consultas personalizadas com SQL</li>
-      <li>Geração de scripts</li>
-      <li>Export e import de backup</li>
+      <li>Consultas no Banco</li>
+      <li>Banco de dados relacionais</li>
+      <li>SQL</li>
     </ul>
 </details>
 <details>
