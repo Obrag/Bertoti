@@ -143,12 +143,9 @@ script... Código JavaScript embutido no HTML. Esse código é executado quando 
 <details>
   <summary>Programação</summary>
     <ul>
-      <li>Funções em JavaScript</li>
-      <li>Manipulação de variáveis com JavaScript</li>
-      <li>Programação orientada a objetos</li>
-      <li>Consumo de API Rest</li>
-      <li>Gerenciamento de usuários</li>
-      <li>Consumo de recursos de bootstrap</li>
+      <li>Programação orientada a objetos - Com a programação orientada a objetos aprendi abstrair entidades em classes, encapsular dados e comportamentos, utilizar herança e polimorfismo, estabelecer associações e composições entre objetos, implementar métodos e mensagens, promover a reutilização de código.</li>
+      <li>Cerenciamento de usuários - Aprendi sobre o gerenciamento de usuários que envolve a criação, autenticação, autorização, gerenciamento de perfil, auditoria e registro de atividades.</li>
+      <li>Java Script - Sintaxe e estrutura: Aprendi a sintaxe básica e a estrutura de um programa JavaScript, incluindo declaração de variáveis, estruturas de controle (como loops e condicionais) e funções.</li>
     </ul>
 </details>
 
