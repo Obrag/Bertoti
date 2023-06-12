@@ -126,11 +126,10 @@ script... Código JavaScript embutido no HTML. Esse código é executado quando 
 <details>
   <summary>Spring Framework</summary>
     <ul>
-      <li>Desenvolvimento de aplicações web</li>
-      <li>Arquitetura REST</li>
-      <li>Integração com banco de dados</li>
-      <li>Injeção de dependências</li>
-      <li>Desenvolvimento de código através de interfaces</li>
+    li>Desenvolvimento de código através de interfaces -  o desenvolvimento de código através de interfaces me proporcionou aprendizados sobre abstração, modularidade, desacoplamento, polimorfismo, testabilidade, padronização e reutilização de código.</li>
+      <li>Integração com banco de dados -Com a integração com banco de dados aprindi sobre uso de uma linguagem de consulta, como SQL. Aprender e dominar essa linguagem permite escrever consultas eficientes, realizar operações avançadas e compreender as melhores práticas para manipular dados.</li>
+      <li>Injeção de dependências - Usamos a injeção de dependência para reduzir o acoplamento entre componentes, melhorar a manutenibilidade do código e promover boas práticas de desenvolvimento de software.</li>
+      <li>Arquitetura REST - Implementação da arquitetura REST no projeto utilizando para o desenvolvimento de APIs web. Ela definiu um conjunto de princípios e restrições para a criação de serviços web que são escaláveis, flexíveis e interoperáveis.</li>
     </ul>
 </details>
 <details>
