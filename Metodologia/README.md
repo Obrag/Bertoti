@@ -135,9 +135,9 @@ script... Código JavaScript embutido no HTML. Esse código é executado quando 
 <details>
   <summary>Banco de dados</summary>
     <ul>
-      <li>Consultas no Banco</li>
-      <li>Banco de dados relacionais</li>
-      <li>SQL</li>
+      <li>Consultas no Banco - Aprendi sobre a linguagem de consulta, como SQL, isso foi fundamental para realizar consultas eficientes e precisas. Esse aprendizado envolve compreender a sintaxe, os comandos, os operadores e as funções disponíveis na linguagem.</li>
+      <li>Banco de dados relacionais - Aprendi sobre modelagem de dados: Os bancos de dados relacionais nos ensinam a modelar os dados de forma estruturada, identificando entidades, atributos e relacionamentos entre os dados. Aprender a projetar um esquema de banco de dados relacional bem estruturado é fundamental para garantir a integridade e eficiência dos dados.</li>
+      <li>SQL - Com o SQL aprendi sobre, manipulação de dados, criação e modificação de tabelas, junções de tabelas, funções de agregação, subconsultas, restrições de integridade, indexação, transações e segurança e permissões de acesso aos dados.</li>
     </ul>
 </details>
 <details>
